@@ -1,27 +1,18 @@
-# Project_ES6
+# 🧴 Flabish – Skincare E-commerce Web App
 
-I’m thrilled to showcase Flabish, a web project I’ve developed for displaying skincare products! 🌿✨
- This project is designed to provide users with a smooth and interactive shopping experience, featuring product categories, a shopping cart, user authentication 🥹 🩷.
-🔸 Key Features:
-✔️ Preloader Animation – Ensures a smooth page loading experience.
-✔️ User Authentication – Login/logout system with local storage support.
-✔️ Product Filtering & Categories – Easily browse and filter skincare products.
-✔️ Shopping Cart – Add, remove, and update cart items dynamically.
-✔️ Quantity Management – Increase/decrease item quantity within the cart.
-✔️ Price Calculation – Auto-updates total cart value based on selections.
-✔️ Product Details Modal – View detailed product descriptions with an interactive pop-up.
-✔️ Image Slider – Auto-scrolling banner for promotions and featured products.
-✔️ Buy Now Feature – Alerts and redirects users after purchase confirmation.
-✔️ Scroll to Top Button – Improves user experience by allowing quick navigation.
+**Flabish** is a dynamic and responsive e-commerce web application built using modern JavaScript (ES6). It allows users to browse a curated selection of skincare products, filter items based on categories, and manage their cart with an interactive and user-friendly interface.
 
-🔹 Technologies Used:
-✅ JavaScript (ES6+) – Interactive and dynamic functionality.
-✅ HTML & CSS – For a visually appealing and responsive design.
-✅ Local Storage – To store user login status and cart data persistently.
-✅ DOM Manipulation & Event Listeners – For real-time interactions.
-✅ Flexbox & Grid – For an organized, responsive layout.
+## 🚀 Features
 
-💡 Challenges & Learnings:
-One of the biggest challenges was ensuring smooth cart functionality while maintaining performance. I optimized the event listeners and structured the JavaScript efficiently to handle user interactions seamlessly.
+- 🔐 **User Authentication** – Secure login/logout functionality.
+- 🛍️ **Product Filtering** – Easily browse products by category/type.
+- 🛒 **Interactive Shopping Cart** – Add, remove, and update product quantities in real-time.
+- 📱 **Responsive Design** – Fully optimized for desktop, tablet, and mobile screens.
 
-🎯 This project has strengthened my skills in front-end development, UX/UI design, and JavaScript optimization, and I’m eager to keep improving!
+## 🛠️ Technologies Used
+
+- **JavaScript (ES6)**
+- **HTML5**
+- **CSS3**
+- **LocalStorage** – for cart and session persistence
+- **Responsive Design Principles**

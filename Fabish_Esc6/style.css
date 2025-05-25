@@ -1199,7 +1199,7 @@ h1 {
     color: var(--text-color);
 }
 
-/* footer res */
+/* للاستجابة على الشاشات الصغيرة */
 @media (max-width: 768px) {
     .footer-sections {
         grid-template-columns: 1fr;
@@ -1213,4 +1213,3 @@ h1 {
         justify-content: center;
     }
 }
-
